@@ -43,6 +43,17 @@ Follow these instructions to set up and run the project locally.
     ```
     The application will be available at `http://localhost:9002`.
 
+### Login Credentials
+
+You can use the following credentials to log in and test the application:
+
+*   **Teacher:**
+    *   **Email:** `teacher@nexalearn.com`
+    *   **Password:** `nexalearn`
+*   **Student:**
+    *   **Email:** `student@nexalearn.com`
+    *   **Password:** `nexalearn`
+
 ## License
 
 This project is licensed under the MIT License.
